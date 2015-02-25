@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH009: Algebra I"
+course_description: "This course covers expressions, functions, equations and inequalities, exponentials, quadratics, piecewise and absolute value functions, systems, and statistics. The purpose of this course is to build a strong algebra background that is needed to be successful in the upper level mathematics courses, and learn the logic skills necessary to solve real-world problems."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Connecting Patterns and Functions** <span id="1"></span> 
 *Suppose you want to lose weight because you currently weigh 115 pounds
 and you want to wrestle in the 105-pound weight class. If you knew you

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH009: Algebra I"
+course_description: "This course covers expressions, functions, equations and inequalities, exponentials, quadratics, piecewise and absolute value functions, systems, and statistics. The purpose of this course is to build a strong algebra background that is needed to be successful in the upper level mathematics courses, and learn the logic skills necessary to solve real-world problems."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Linear Equations and Inequalities in Two Variables** <span
 id="3"></span> 
 *Suppose you know the age and weight of your dog and like to feed her a

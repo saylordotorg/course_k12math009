@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH009: Algebra I"
+course_description: "This course covers expressions, functions, equations and inequalities, exponentials, quadratics, piecewise and absolute value functions, systems, and statistics. The purpose of this course is to build a strong algebra background that is needed to be successful in the upper level mathematics courses, and learn the logic skills necessary to solve real-world problems."
+next: ../../../
+previous: ../Unit03
+---
 **Unit 4: Data** <span id="4"></span> 
 *Suppose you belong to a gym that has posters displayed to help members
 focus on reaching their peak heart rate during workouts. Age is given in
