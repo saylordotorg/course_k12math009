@@ -175,3 +175,9 @@ on topics covered in this course with practice worksheets and
 solutions.  
     
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/k12math009/Unit01/)
+- [Unit 2](https://legacy.saylor.org/k12math009/Unit02/)
+- [Unit 3](https://legacy.saylor.org/k12math009/Unit03/)
+- [Unit 4](https://legacy.saylor.org/k12math009/Unit04/)
