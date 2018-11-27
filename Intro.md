@@ -80,7 +80,7 @@ computer.
  √    have completed K12 Math 8 or another Pre-algebra course.  
   
  √    have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
 
 ### Course Information
 
