@@ -189,4 +189,4 @@ solutions.
 - [Unit 2](https://legacy.saylor.org/k12math009/Unit02/)
 - [Unit 3](https://legacy.saylor.org/k12math009/Unit03/)
 - [Unit 4](https://legacy.saylor.org/k12math009/Unit04/)
-- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12MATH009/K12MATH009-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12MATH009/K12MATH009-FinalExam-Answers.html)
+- No final exam is available for this course
